@@ -1,4 +1,4 @@
-# 👋 Привет! Я Системный Инженер & DevOps Enthusiast
+# 👋 Привет! Я System, DevOps & ML Engineer
 
 ![Status](https://img.shields.io/badge/status-open_to_work-green)
 ![Location](https://img.shields.io/badge/location-Saint_Petersburg-blue)
